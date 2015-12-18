@@ -1,1 +1,1 @@
-include ':app', ':ycclistview'
+include ':app', ':ycclistview', ':spinnertest', ':popmenutest'

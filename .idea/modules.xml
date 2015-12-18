@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/MyVariousDemo.iml" filepath="$PROJECT_DIR$/MyVariousDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/popmenutest/popmenutest.iml" filepath="$PROJECT_DIR$/popmenutest/popmenutest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinnertest/spinnertest.iml" filepath="$PROJECT_DIR$/spinnertest/spinnertest.iml" />
       <module fileurl="file://$PROJECT_DIR$/ycclistview/ycclistview.iml" filepath="$PROJECT_DIR$/ycclistview/ycclistview.iml" />
     </modules>
   </component>
